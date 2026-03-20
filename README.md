@@ -6,7 +6,7 @@
 ![Discord.py](https://img.shields.io/badge/discord.py-2.7.1-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-licencja)
+[![License](https://img.shields.io/badge/License-Closed%20Source-red?style=for-the-badge)](#-licencja)
 
 <br>
 
@@ -202,11 +202,11 @@ davmar-fm-bot/
 
 <div align="center">
 
-🔓 **MIT License - Open Source**
+� **Closed Source - Wszelkie prawa zastrzeżone**
 
-Ten projekt jest udostępniony na licencji MIT.
+Ten projekt jest własnością autora. Kod źródłowy nie jest publicznie dostępny.
 
-Możesz go używać, modyfikować i dystrybuować zgodnie z warunkami licencji.
+Nieautoryzowane kopiowanie, modyfikowanie lub dystrybucja jest zabroniona.
 
 Autor: DrWilkor (WilkorPLYT)
 Copyright © 2026 DrWilkor
