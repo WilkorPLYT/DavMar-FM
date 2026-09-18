@@ -178,23 +178,6 @@ davmar-fm-bot/
 | 🎚️ **Custom** | Dowolne stacje + custom funkcje |
 | 🏢 **Enterprise** | Wsparcie 24/7 + hosting + utrzymanie |
 
-<br>
-
----
-
-## 📞 Kontakt
-
-<div align="center">
-
-### Zainteresowany? Napisz do mnie!
-
-<br>
-
-| Developer | Discord | GitHub |
-|-----------|---------|--------|
-| **DrWilkor** | [DrWilkor#446740090757316608](https://discord.com/users/446740090757316608) | [@WilkorPLYT](https://github.com/WilkorPLYT) |
-
-</div>
 
 <br>
 
