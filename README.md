@@ -17,7 +17,6 @@
 [✨ Funkcje](#-funkcje) •
 [📸 Screenshots](#-screenshots) •
 [🛠️ Technologie](#️-technologie) •
-[📞 Kontakt](#-kontakt)
 
 <br>
 
